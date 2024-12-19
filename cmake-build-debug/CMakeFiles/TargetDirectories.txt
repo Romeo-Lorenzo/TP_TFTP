@@ -1,0 +1,3 @@
+/home/lorenzo/Documents/ENSEA/2A/TP_TFTP/cmake-build-debug/CMakeFiles/TP_TFTP.dir
+/home/lorenzo/Documents/ENSEA/2A/TP_TFTP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lorenzo/Documents/ENSEA/2A/TP_TFTP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
