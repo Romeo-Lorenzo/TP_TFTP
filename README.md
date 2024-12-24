@@ -12,3 +12,4 @@ Je suis parvenu a envoyer une demande au serveur srvtpinfol.ensea.fr
 
 ![image](https://github.com/user-attachments/assets/08fa2aaf-dc59-4576-b77d-a38287c30764)
 
+On peut bien voir sur wireshark que la réception d'un bloc fonctionne bien, on voit aussi l'appel au gettftp sur le terminal
